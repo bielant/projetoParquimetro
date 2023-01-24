@@ -1,0 +1,23 @@
+C:/Users/Public/Documents/ParkimeterFunchal_1/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.exe.config
+C:/Users/Public/Documents/ParkimeterFunchal_1/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.exe
+C:/Users/Public/Documents/ParkimeterFunchal_1/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.pdb
+C:/Users/Public/Documents/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.csproj.AssemblyReference.cache
+C:/Users/Public/Documents/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.csproj.SuggestedBindingRedirects.cache
+C:/Users/Public/Documents/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.csproj.CoreCompileInputs.cache
+C:/Users/Public/Documents/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.exe
+C:/Users/Public/Documents/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.pdb
+E:/ParkimeterFunchal_1/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.exe.config
+E:/ParkimeterFunchal_1/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.exe
+E:/ParkimeterFunchal_1/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.pdb
+E:/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.csproj.AssemblyReference.cache
+E:/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.csproj.SuggestedBindingRedirects.cache
+E:/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.csproj.CoreCompileInputs.cache
+E:/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.exe
+E:/ParkimeterFunchal_1/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.pdb
+/Users/antonioandrade/Desktop/PROJETO PARQUIMETRO/ParkimeterFunchal_1 - Cópia/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.exe.config
+/Users/antonioandrade/Desktop/PROJETO PARQUIMETRO/ParkimeterFunchal_1 - Cópia/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.exe
+/Users/antonioandrade/Desktop/PROJETO PARQUIMETRO/ParkimeterFunchal_1 - Cópia/ParkimeterFunchal_1/bin/Debug/ParkimeterFunchal_1.pdb
+/Users/antonioandrade/Desktop/PROJETO PARQUIMETRO/ParkimeterFunchal_1 - Cópia/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.csproj.AssemblyReference.cache
+/Users/antonioandrade/Desktop/PROJETO PARQUIMETRO/ParkimeterFunchal_1 - Cópia/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.csproj.CoreCompileInputs.cache
+/Users/antonioandrade/Desktop/PROJETO PARQUIMETRO/ParkimeterFunchal_1 - Cópia/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.exe
+/Users/antonioandrade/Desktop/PROJETO PARQUIMETRO/ParkimeterFunchal_1 - Cópia/ParkimeterFunchal_1/obj/Debug/ParkimeterFunchal_1.pdb
