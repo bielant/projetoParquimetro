@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+//aSasasd
+
 namespace ParkimeterFunchal_1
 {
     internal class Zona
